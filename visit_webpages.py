@@ -7,6 +7,8 @@ This script will be used to automatically visit a particular webpage at a certai
 # Kevin Landau, MS
 # 11/1/2017
 
+# See github.instapy (recommended by Pesanteur Mathue Duhaney from SGU, also see Nikpy in Mathue's GitHub)
+
 #nil
 
 # 12/21/2017 - resumed this project while on winter break from med school...
